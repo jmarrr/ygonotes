@@ -1,9 +1,12 @@
 # Masterchokepoints.
 This document is a collection of all archetype weakness and resistance to help you win tournaments.
 
-Special thanks to the contributors for helping gathering information (@marr, ...)
+Special thanks to the contributors for helping gathering information (@marr, @kenji...)
 
 ## Table of Contents
+- [Salamangreat](#salamangreat)
+- [Scareclaw](#scareclaw)
+- [Manadome](#manadome)
 - [Labrynth](#labrynth)
 - [Tearlaments](#purrely)
 - [Purrely](#ygonotes)
@@ -11,12 +14,8 @@ Special thanks to the contributors for helping gathering information (@marr, ...
 - [VS](#vs)
 - [Sky Striker](#ygonotes)
 - [R-ACE](#ygonotes)
-- [Traptrix]()
-- [Salamangreat]()
-- [Madolche]()
-- [Orcust]()
-- [Mekk-Knight]()
-  
+
+
 ### VS
 Be aware of which attributes goes in and out of their hand since they rely on it to use their second effect. It is effective to prevent them from adding monsters to hand which reduce the chance of getting all types they needed to gain their second effect.
 
@@ -54,7 +53,6 @@ Negating [Lily](https://yugipedia.com/wiki/Purrely_Lily) effect is more valuable
 |  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  | Ogre  | Belle | Crow  | Shifter |
 | :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :---: | :-----: |
 | :100: |  :o:  |  :x:  |  :x:  |  :o:   |  :o:  |  :x:  | :100: |  :o:  |   :x:   |
-
 
 
 
