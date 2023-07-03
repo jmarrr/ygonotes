@@ -1,22 +1,41 @@
 # Masterchokepoints.
 This document is a collection of all archetype weakness and resistance to help you win tournaments.
 
-Special thanks to the contributors for helping gathering information (@marr, @kenji...)
+Special thanks to the contributors for helping gathering information (@marr, @kenji, @Ed, ...)
 
 ## Table of Contents
 - [Salamangreat](#salamangreat)
 - [Scareclaw](#scareclaw)
 - [Manadome](#manadome)
 - [Labrynth](#labrynth)
-- [Tearlaments](#purrely)
 - [Purrely](#ygonotes)
-- [Gishki](#ygonotes)
 - [VS](#vs)
-- [Sky Striker](#ygonotes)
-- [R-ACE](#ygonotes)
+- [Sky Striker](#sky-striker)
+
+
+### Sky Striker 
+Strikers is a control deck that is more effecient when the number of Spells on their graveyard reach more 3 or more so you have to prevent them to increase the amount of spells on graveyard if you have a way to remove those.
+
+You can catch them off guard if you have a way to reduce the Spells to less than 3 by holding your card effect and only chaining it to a relevant Sky Striker Spell so they can't use the extra effect as they planned to. Example a case where they commited for Acesscode and plan to take control one of your monsters if you have something like Mudora/Crow you can chain it to their Anchor and throw them off.
+
+The usual main plan of Strikers is to capitalize the extra draw from Engage to dig a Handtrap which makes their Handtrap ratio high so always do a Handtrap care when playing against them.
+
+They have great recovery especially when Raye is on the grave so don't blindly just attack their Link monster for damage unless you can guarantee a one-kill. Sometimes it is better to leave any Striker Link moster on the field than letting them setup a card for the next turn like Hayate dump or Shizuku search (Recovery from Raye). It is best remove Raye from the grave to slow them down.
+
+The best time to use the Ash is on the second activation of Engage recovered from Kagari other window like Shizuku or first Engage will vary on your card advantage. 
+
+When Striker player uses the Multirole first effect they most likely have a way to break your board or guarantee a multiple Anchor setup so you have to use your relevant effects on that time to protect your board.
+
+Having monsters or tokens on their main monster zone shuts down all their Striker Spells. Cards like Kaiju and Terrors of the Overrot are supper effective.
+
+Be aware of Linkage as it can surprise one-kill.
+
+|  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  | Ogre  | Belle | Shifter | Kaiju |
+| :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
+|  :o:  |  :o:  | :100: |  :x:  |  :o:   |  :o:  |  :x:  |  :o:  |  :100:  | :100: |
 
 ### Salamangreat
-Salamangreat main threat are [Roar](https://yugipedia.com/wiki/Salamangreat_Roar) and [Rage]([Roar](https://yugipedia.com/wiki/Salamangreat_Rage)) since they are searchable while all their link monsters doesn't do anything to interrupt you except Heatsoul that can draw a possible hand trap. Your main priority is to negate [Balelynx](https://yugipedia.com/wiki/Salamangreat_Balelynx) effect or destroy [Sanctuary]([Roar](https://yugipedia.com/wiki/Salamangreat_Sanctuary)) before they use its effect which can heavily disurpt their whole combo and can force to waste a lot of resources. 
+Salamangreat main threat are [Roar](https://yugipedia.com/wiki/Salamangreat_Roar) and [Rage](https://yugipedia.com/wiki/Salamangreat_Rage) since they are searchable while all their link monsters doesn't do anything to interrupt you except Heatsoul that can draw a possible hand trap. Your main priority is to negate [Balelynx](https://yugipedia.com/wiki/Salamangreat_Balelynx) effect or destroy [Sanctuary]([Roar](https://yugipedia.com/wiki/Salamangreat_Sanctuary)) before they use its effect which can heavily disurpt their whole combo and can force to waste a lot of resources. 
 
 [Phoenix](https://yugipedia.com/wiki/Salamangreat_Raging_Phoenix) search effect, Second [Wolf](https://yugipedia.com/wiki/Salamangreat_Sunlight_Wolf) linked effect and [Gazelle](https://yugipedia.com/wiki/Salamangreat_Gazelle) are other strong points that you can negate to prevent the search of their main interruption and extenders.
 
@@ -44,7 +63,7 @@ Core monsters like Rock of the Vanquiser, Caesar and Burger can only activate on
 ### Purrely
 Their Xyz monsters have versatile utility to setup or surprise go for one-kill so as much as possible prevent the purrely to Xyz summon. 
 
-The deck is prone for OTK when you out Noir that is only your chance to go for one-kill.
+The deck is prone for one-kill when you out Noir that is only your chance to OTK.
 
 EPurrely can miss timing on their memory attachment effect so you can use speed spell 1 above card effects to block Plump getting fat for Noir or choke Hapiness OTK on their second Happy Memory attachment.
 
@@ -57,9 +76,11 @@ Negating [Lily](https://yugipedia.com/wiki/Purrely_Lily) effect is more valuable
 
 
 ### Labrynth
- Do not allow [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welcome](https://yugipedia.com/wiki/Welcome_Labrynth) to resolve since that is their main card to snowball with other Labrynth monster effect which makes Ash Blossom on Welcome and using Called by on furniture is super effective than hitting the Arianna search effect.
+ Do not allow [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welcome](https://yugipedia.com/wiki/Welcome_Labrynth) to resolve since those are their main cards to snowball with other Labrynth monster effect. 
+ 
+ When choosing which cards to destroy the most valuable target is the backrows 
 
- [Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) trap setting effect can miss timing so you can use speed spell 1 above card effects to block her.
+ [Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) trap setting effect can miss timing so you can use speed spell 1 above card effects to block her setup.
 
 
 |  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  | Ogre  | Belle | Shifter | Kaiju |
