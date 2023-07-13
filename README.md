@@ -5,26 +5,43 @@ Special thanks to the contributors for helping gathering information (@marr, @ke
 
 ## Table of Contents
 - [Salamangreat](#salamangreat)
-- [Scareclaw](#scareclaw)
-- [Manadome](#manadome)
+- [R-ACE](#r-ace)
+- [Branded](#branded)
 - [Labrynth](#labrynth)
-- [Purrely](#ygonotes)
+- [Purrely](#purrely)
 - [VS](#vs)
 - [Sky Striker](#sky-striker)
 
+### Branded
+Do not allow them to fusion summon! Their fusion monsters and materials allow them to gain advantage from setting up resources and interruptions. 
+
+Hold Ash for Branded Fusion or Saronir only if branded fusion or branded retribution is already on the grave which allows them to recover the spell on grave. Quem is also a great target if the Branded Fusion is dead already to stop the opponent setting up Fallen of Albaz and wants to fusion on your turn.
+
+Use targeting negation effects for Branded Fusion searchers like Aluber and Kitt. Negating Fallen of Albaz even it is a bait is a high priority given that you have an important monster to protect since they might use it as fusion material. If Albion the Branded Dragon,Lubellion the Searing Dragon or Granguignol was fusion summoned there is still a chance to shut it down before they can summon Mirrorjade. Quem, Cartesia and The Bystial Lubellion are your last priority. Be careful to use this when there is already Cartesia on the field as it is used for dodging the interruption.
+
+When the monster on the field is only Cartesia and activates its effect it implies that the opponent bricked and you can gamble to negate that effect.
+
+Like VS Branded has a fusion monster that checks column so place your face up cards on the same column already occupied by your opponent.
+
+It is important to remove Fallen of Albaz on the field or grave to shut down majority of their fusion summon targets. You should also remove the relevant fusion monsters that were sent to the grave on the same turn before the end phase.
+
+|  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  |  Ogre | Belle | Shifter | Kaiju |
+| :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
+| :100: | :100: |  :x:  |  :x:  |  :o:   |  :o:  |  :x:  |  :o:  |   :o:   |  :o:  |
+
 
 ### Sky Striker 
-Strikers is a control deck that is more effecient when the number of Spells on their graveyard reach more 3 or more so you have to prevent them to increase the amount of spells on graveyard if you have a way to remove those.
+Striker is really strong when they have 3 or more spells on their grave so you need to prevent it from happening.
 
-You can catch them off guard if you have a way to reduce the Spells to less than 3 by holding your card effect and only chaining it to a relevant Sky Striker Spell so they can't use the extra effect as they planned to. Example a case where they commited for Acesscode and plan to take control one of your monsters if you have something like Mudora/Crow you can chain it to their Anchor and throw them off.
+You can catch them off guard if you have a way to reduce the Spells to less than 3 by holding your card effect and only chaining it to a relevant Sky Striker Spell so they can't use their extra effect as they planned to. Example a case where they commited for Acesscode and plan to take control one of your monsters if you have something like Mudora/Crow you can chain it to their Anchor and throw them off.
 
 The usual main plan of Strikers is to capitalize the extra draw from Engage to dig a Handtrap which makes their Handtrap ratio high so always do a Handtrap care when playing against them.
 
-They have great recovery especially when Raye is on the grave so don't blindly just attack their Link monster for damage unless you can guarantee a one-kill. Sometimes it is better to leave any Striker Link moster on the field than letting them setup a card for the next turn like Hayate dump or Shizuku search (Recovery from Raye). It is best remove Raye from the grave to slow them down.
+They have great recovery especially when Raye is on the grave so don't blindly just attack their Link monster for damage unless you can guarantee a one-kill. Sometimes it is better to leave any Striker Link moster on the field than letting them setup a card for the next turn like Hayate dump or Shizuku search (Recovered from Raye). It is best remove Raye from the grave to slow them down.
 
 The best time to use the Ash is on the second activation of Engage recovered from Kagari other window like Shizuku or first Engage will vary on your card advantage. 
 
-When Striker player uses the Multirole first effect they most likely have a way to break your board or guarantee a multiple Anchor setup so you have to use your relevant effects on that time to protect your board.
+When Striker player uses the Multirole first effect they most likely have a way to break your board or guarantee a multiple Anchor setup so you have to use your relevant effects on before that time to protect your board.
 
 Having monsters or tokens on their main monster zone shuts down all their Striker Spells. Cards like Kaiju and Terrors of the Overrot are supper effective.
 
@@ -39,7 +56,7 @@ Salamangreat main threat are [Roar](https://yugipedia.com/wiki/Salamangreat_Roar
 
 [Phoenix](https://yugipedia.com/wiki/Salamangreat_Raging_Phoenix) search effect, Second [Wolf](https://yugipedia.com/wiki/Salamangreat_Sunlight_Wolf) linked effect and [Gazelle](https://yugipedia.com/wiki/Salamangreat_Gazelle) are other strong points that you can negate to prevent the search of their main interruption and extenders.
 
-Given that most of Salad recipes have high Handtrap ratio if you see a [Heatsoul](https://yugipedia.com/wiki/Decode_Talker_Heatsoul) pass without your interruptions play conservatively on your turn and expect a lot of Hantraps on their hand. 
+Salad recipes have high Handtrap ratio if you see a [Heatsoul](https://yugipedia.com/wiki/Decode_Talker_Heatsoul) pass play around with Hantraps in mind. 
 
 It is nice to place your monster both on front of extra monster zone if your opponent isn't careful with the zones where Wolf down link pointer is blocked already you can prevent Wolf add from grave effect when they use [Wheesel](https://yugipedia.com/wiki/Salamangreat_Wheesel).
 
@@ -76,12 +93,11 @@ Negating [Lily](https://yugipedia.com/wiki/Purrely_Lily) effect is more valuable
 
 
 ### Labrynth
- Do not allow [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welcome](https://yugipedia.com/wiki/Welcome_Labrynth) to resolve since those are their main cards to snowball with other Labrynth monster effect. 
+ Labrynth has a very bad recovery do not allow [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welcome](https://yugipedia.com/wiki/Welcome_Labrynth) to resolve since those are their main cards to snowball with other Labrynth monsters effect it will take them at least two turns to recover. 
  
- When choosing which cards to destroy the most valuable target is the backrows 
+ [Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) trap setting effect can miss the timing so you can use fast effects to block her setup.
 
- [Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) trap setting effect can miss timing so you can use speed spell 1 above card effects to block her setup.
-
+ Take note your opponent can not active a recently set trap card by Cooclock effect if they dont have any Labrynth monster on the field. 
 
 |  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  | Ogre  | Belle | Shifter | Kaiju |
 | :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
