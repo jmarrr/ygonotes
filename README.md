@@ -36,10 +36,12 @@ Like VS Branded has a fusion monster that checks column so place your face up ca
 
 It is important to remove Fallen of Albaz on the field or grave to shut down majority of their fusion summon targets. You should also remove the relevant fusion monsters that were sent to the grave on the same turn before the end phase.
 
+* Locked to Fusion from Branded Fusion.
+* Locked on Extra Deck from Nadir Servant.
+
 |  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  |  Ogre | Belle | Shifter | Kaiju |
 | :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
 | :100: | :100: |  :x:  |  :x:  |  :o:   |  :o:  |  :x:  |  :o:  |   :o:   |  :o:  |
-
 
 ### Sky Striker 
 Striker is really strong when they have 3 or more spells on their grave so you need to prevent it from happening.
@@ -109,6 +111,9 @@ Negating [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welc
 [Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) second effect allows her to set any devastating normal trap and with Welcome's effect they can search for Cooclock which can make them able to activate it on their turn. This effect can miss the timing so use any fast effect to chain block Lady.
 
 Furnitures are their main set-up and recovery remove them from graveyard or negate their effects when you can!
+
+* Locked to Fiend from Welcome Labrynth.
+* Locked on Extra Deck from Dogmatika Punishment.
 
 |  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  | Ogre  | Belle | Shifter | Kaiju |
 | :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
