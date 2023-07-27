@@ -12,12 +12,23 @@ Special thanks to the contributors for helping gathering information (@marr, @ke
 - [VS](#vs)
 - [Sky Striker](#sky-striker)
 
+### Rescue-Ace
+Hit their Hoister or Hydrant with your Vielers even if they can dodge it with EMERGENCY! however Ash is best on EMERGENCY!. You can potentially end their turn without extender (Diabellstarr) while if you hit Turbulence even if you prevent it to set 4 they can still go for Auroradon line that have 2 interruptions and a pseudo Dimensional Fissure.
+
+Remove Hydrant as much as possible on the field in order for them to unable to use the second effect of their Spells/Traps.
+
+Play around with Preventer in mind when they have Hoister or Impulse and another R-ACE monster on the field since they can summon it when you activate a monster effect.
+
+|  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  |  Ogre | Belle | Shifter | Kaiju |
+| :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
+| :100: | :100: |  :x:  |  :o:  | :100:  |  :x:  |  :o:  |  :x:  |   :x:   |  :o:  |
+
 ### Branded
-Do not allow them to fusion summon! Their fusion monsters and materials allow them to gain advantage from setting up resources and interruptions. 
+Do not allow them to fusion summon! Their fusion monsters and materials allows them to gain advantage from setting up resources and interruptions. 
 
-Hold Ash for Branded Fusion or Saronir only if branded fusion or branded retribution is already on the grave which allows them to recover the spell on grave. Quem is also a great target if the Branded Fusion is dead already to stop the opponent setting up Fallen of Albaz and wants to fusion on your turn.
+Hold Ash for Branded Fusion or Saronir only if branded fusion or branded retribution is already on the grave which helps recover the spell on the grave. Quem is also a great target if the Branded Fusion is dead already to stop the opponent setting up Fallen of Albaz and wants to fusion on your turn.
 
-Use targeting negation effects for Branded Fusion searchers like Aluber and Kitt. Negating Fallen of Albaz even it is a bait is a high priority given that you have an important monster to protect since they might use it as fusion material. If Albion the Branded Dragon,Lubellion the Searing Dragon or Granguignol was fusion summoned there is still a chance to shut it down before they can summon Mirrorjade. Quem, Cartesia and The Bystial Lubellion are your last priority. Be careful to use this when there is already Cartesia on the field as it is used for dodging the interruption.
+Use targeting negation effects for Branded Fusion searchers like Aluber and Kitt. Negating Fallen of Albaz even used as a bait is also good given that you have an important monster to protect since they might use it as fusion material. It is not too late to choose to negate Albion the Branded Dragon,Lubellion the Searing Dragon or Granguignol before they can summon Mirrorjade. Quem, Cartesia and The Bystial Lubellion are your last priority. Be careful to use this when there is already Cartesia on the field as it is used for dodging the interruption.
 
 When the monster on the field is only Cartesia and activates its effect it implies that the opponent bricked and you can gamble to negate that effect.
 
@@ -52,7 +63,7 @@ Be aware of Linkage as it can surprise one-kill.
 |  :o:  |  :o:  | :100: |  :x:  |  :o:   |  :o:  |  :x:  |  :o:  |  :100:  | :100: |
 
 ### Salamangreat
-Salamangreat main threat are [Roar](https://yugipedia.com/wiki/Salamangreat_Roar) and [Rage](https://yugipedia.com/wiki/Salamangreat_Rage) since they are searchable while all their link monsters doesn't do anything to interrupt you except Heatsoul that can draw a possible hand trap. Your main priority is to negate [Balelynx](https://yugipedia.com/wiki/Salamangreat_Balelynx) effect or destroy [Sanctuary]([Roar](https://yugipedia.com/wiki/Salamangreat_Sanctuary)) before they use its effect which can heavily disurpt their whole combo and can force to waste a lot of resources. 
+Salamangreat main threats are [Roar](https://yugipedia.com/wiki/Salamangreat_Roar) and [Rage](https://yugipedia.com/wiki/Salamangreat_Rage) since they are searchable while all their link monsters doesn't do anything to interrupt you except Heatsoul that can draw a possible Handtrap. Your main priority is to negate [Balelynx](https://yugipedia.com/wiki/Salamangreat_Balelynx) effect or destroy [Sanctuary]([Roar](https://yugipedia.com/wiki/Salamangreat_Sanctuary)) before they use its effect which can heavily disurpt their whole strategy. 
 
 [Phoenix](https://yugipedia.com/wiki/Salamangreat_Raging_Phoenix) search effect, Second [Wolf](https://yugipedia.com/wiki/Salamangreat_Sunlight_Wolf) linked effect and [Gazelle](https://yugipedia.com/wiki/Salamangreat_Gazelle) are other strong points that you can negate to prevent the search of their main interruption and extenders.
 
@@ -78,11 +89,11 @@ Core monsters like Rock of the Vanquiser, Caesar and Burger can only activate on
 | :100: |  :o:  |  :o:  |  :x:  |  :o:   |  :o:  |  :o:  |  :o:  |   :x:   |  :o:  |
 
 ### Purrely
-Their Xyz monsters have versatile utility to setup or surprise go for one-kill so as much as possible prevent the purrely to Xyz summon. 
+Prevent them to Xyz summon or Summon Noir as much as possible.
 
-The deck is prone for one-kill when you out Noir that is only your chance to OTK.
+They are prone for one-kill and your only chance is when you out the Noir since they have insane recovery from My Friend and Street.
 
-EPurrely can miss timing on their memory attachment effect so you can use speed spell 1 above card effects to block Plump getting fat for Noir or choke Hapiness OTK on their second Happy Memory attachment.
+EPurrely's second effect can miss the timing you can use fast effect to chain block Plump to prevent getting 5 materials for Noir or avoid Happiness OTK when it is trying to activate a Happy Memory after Happiness used all attack by effect on monster.
 
 Negating [Lily](https://yugipedia.com/wiki/Purrely_Lily) effect is more valuable than [Purrely](https://yugipedia.com/wiki/Purrely_(card)) since Purrely is not once per turn
 
@@ -93,11 +104,11 @@ Negating [Lily](https://yugipedia.com/wiki/Purrely_Lily) effect is more valuable
 
 
 ### Labrynth
- Labrynth has a very bad recovery do not allow [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welcome](https://yugipedia.com/wiki/Welcome_Labrynth) to resolve since those are their main cards to snowball with other Labrynth monsters effect it will take them at least two turns to recover. 
+Negating [Big Welcome](https://yugipedia.com/wiki/Big_Welcome_Labrynth) or [Welcome](https://yugipedia.com/wiki/Welcome_Labrynth) deals a huge blow to their strategy.
  
- [Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) trap setting effect can miss the timing so you can use fast effects to block her setup.
+[Lady's](https://yugipedia.com/wiki/Lady_Labrynth_of_the_Silver_Castle) second effect allows her to set any devastating normal trap and with Welcome's effect they can search for Cooclock which can make them able to activate it on their turn. This effect can miss the timing so use any fast effect to chain block Lady.
 
- Take note your opponent can not active a recently set trap card by Cooclock effect if they dont have any Labrynth monster on the field. 
+Furnitures are their main set-up and recovery remove them from graveyard or negate their effects when you can!
 
 |  Ash  | Maxx  | Droll |  Nib  | Veiler | Crow  | Ogre  | Belle | Shifter | Kaiju |
 | :---: | :---: | :---: | :---: | :----: | :---: | :---: | :---: | :-----: | :---: |
